@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="threader/ThreadSchedulerOld.java|threader/NewThreadScheduler.java|threader/PlanThread.java" kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/JavaFF2"/>
+	<classpathentry kind="lib" path="/JavaFF2/lib/jgrapht-0.8.2/jgrapht-jdk1.6.jar" sourcepath="/JavaFF2/lib/jgrapht-0.8.2/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/dpattiso/workspace/JavaFF2/lib/jgrapht-0.8.2/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
